@@ -42,7 +42,7 @@ This is a simple web application written in Go that allows users to search for n
     go run main.go
     ```
 
-6. Access the application in your web browser at `http://localhost:3000`.
+6. Access the application in your web browser at ` https://gonewswebapp-86f7b05743ba.herokuapp.com/ ' .
 
 ## Usage
 
